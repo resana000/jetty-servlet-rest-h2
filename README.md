@@ -1,6 +1,3 @@
-
-Ildar test for cv
-
 #### jar
 
 ```
